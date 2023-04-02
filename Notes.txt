@@ -1,0 +1,10 @@
+similarities_result.csv : contains the results we got from our machine learning process in the format we used to get similarity .
+which is : 
+i grouped every NPI and counted every generic_name prescriped by the physician related to this npi ,
+and i got the sum of total_clms , Tot_Day_Suply, GE65_Tot_Clms,GE65_Tot_Day_Suply for each npi.
+
+we have physician_npi column which is the npi from the our CMS Prescription Data sheet,
+similar_npi column which is the npi of the similar physician .
+
+
+similar_cms_data.csv : contains the full information of the similar Physicians we got , we pulled these data from the CMS Prescription data 2020.

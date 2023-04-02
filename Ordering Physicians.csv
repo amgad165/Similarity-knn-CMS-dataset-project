@@ -1,0 +1,103 @@
+Last Name,First Name,Tests Ordered,NPI,Facility,Location,Specialty 
+Yaranov,Dmitry ,194,1255607164,Baptist Memorial ,"Memphis, TN",Cardiology
+Traufler,Robin ,140,1669474490,Prisma Health Richland,"Columbia, SC",PAC
+Droogan,Christopher ,131,1174528129,Lankenau,"Wynnewood, PA",Cardiology
+Sheikh,Fariha ,116,1912225137,Queen's Medical Center,"Honolulu, HI",Surgery
+Carry,Brendan ,113,1376836395,Geisinger,"Danville, PA",Cardiology
+Park,Han ,103,1144305632,Queen's Medical Center,"Honolulu, HI",Emergency Medicine
+Costanzo,Maria ,90,1063449833,Edward Hospital,"Naperville, IL",Cardiology
+Miller,Wayne ,86,1912986183,Mayo Clinic ,"Rochester, MN",Cardiology
+Gonzalez,Patrisa ,85,1881234631,Prisma Health Richland,"Columbia, SC",NP
+Borlaug,Barry ,85,1518975374,Mayo Clinic ,"Rochester, MN",Cardiology
+;,Jonathan ,80,1730676347,Queen's Medical Center,"Honolulu, HI",NP
+Eckman,Peter ,54,1639131345,Abbott,"Minneapolis, MN",Cardiology
+Lee,Jae Won ,54,1184967150,Queen's Medical Center,"Honolulu, HI",Surgery
+Sweat,Bonnie ,52,1861989030,Baptist Memorial ,"Memphis, TN",NP
+Lobo,Ronstan ,51,1063862381,Mayo Clinic ,"Rochester, MN",Internal Medicine
+Doyle,Colin ,44,1215355680,Queen's Medical Center,"Honolulu, HI",Internal Medicine
+Taitano,Genia ,43,1972965408,Queen's Medical Center,"Honolulu, HI",Surgery
+Jay,Desmond ,41,1720138100,Abbott,"Minneapolis, MN",Cardiology
+Lin,David ,38,1629090196,Abbott,"Minneapolis, MN",Cardiology
+Tedder,Barry ,32,1467457358,Saint Bernards,"Jonesboro, AR",Cardiology
+Jaroonwanichkul,Pairote ,32,1801893979,Loma Linda University Med Ctr,"Loma Linda, CA ",Oncology
+Inouye,David ,32,1497950570,Queen's Medical Center,"Honolulu, HI",Surgery
+French,Teresa,31,1366875486,Abbott,"Minneapolis, MN",Cardiology
+Brady,James ,31,1750554986,Geisinger,"Danville, PA",Hematology
+Case,Rachel ,30,1104011592,Self Regional,"Greenwood, SC",NP
+Lopez De Leon,Angela ,29,1255587465,Self Regional,"Greenwood, SC",Cardiology
+Samara,Michael ,29,1053523613,Abbott,"Minneapolis, MN",Cardiology
+Truong,Lyanne ,29,1710006317,Loma Linda University Med Ctr,"Loma Linda, CA ",PAC
+Hill,Alicia ,29,1942711478,OHSU,"Portland, OR",NP
+Newhart,Brad ,29,1801165337,OHSU,"Portland, OR",PAC
+Napier,Rebecca ,28,1730317314,Prisma Health Richland,"Columbia, SC",Cardiology 
+Orlandi,Quirino ,27,1598729253,Abbott,"Minneapolis, MN",Cardiology
+Wilkes,Sara ,27,1467816736,Prisma Health Richland,"Columbia, SC",NP
+Dahl,Jenna ,26,1902214471,Abbott,"Minneapolis, MN",NP
+Bart,Bradley,26,1396791174,Minneapolis VA Health Care,"Minneapolis, MN",Cardiology
+Brown,Jason ,26,1265696116,Queen's Medical Center,"Honolulu, HI",Anesthesiology
+Bozicevich,Dawn,25,1659386266,Abbott,"Minneapolis, MN",NP
+Redmond,Melissa ,24,1093234866,Prisma Health Richland,"Columbia, SC",NP
+Fudim,Marat,24,1013262419,Duke Clinical Research,"Durham, NC",Cardiology
+Bunker,Matthew ,24,1265679765,OHSU,"Portland, OR",PAC
+Clark,John ,23,1831484138,Lankenau,"Wynnewood, PA",Internal Medicine
+Delaney,Megan ,23,1720460298,Abbott,"Minneapolis, MN",NP
+Zimbwa,Peter ,22,1568658201,Abbott,"Minneapolis, MN",Cardiology
+Chen,Grant ,22,1962536946,Queen's Medical Center,"Honolulu, HI",Internal Medicine
+Hoffman,Mark ,21,1356342034,Aspirus Wausau,"Wausau, WI",Cardiology
+Smith,Elisa ,21,1164419644,Abbott,"Minneapolis, MN",Cardiology
+Yan,Stephanie ,21,1013379841,Queen's Medical Center,"Honolulu, HI",Surgery
+Roberts,Michael ,20,1932159357,Banner University Medical Center,"Phoenix, AZ",Hematology
+Harvey,Scott ,20,1457662868,Queen's Medical Center,"Honolulu, HI",Surgery
+Luetmer,Paul ,19,1689675332,Aspirus Wausau,"Wausau, WI",Cardiology
+Saxena,Retu ,19,1437252012,Abbott,"Minneapolis, MN",Cardiology
+Lorenz,Matthew ,19,1427544873,Abbott,"Minneapolis, MN",NP
+Yu,Mihae ,18,1891738944,Queen's Medical Center,"Honolulu, HI",Surgery
+Keranen,Katharine ,17,1235174236,OHSU,"Portland, OR",PAC
+Bush,Lisa ,16,1528372380,OHSU,"Portland, OR",PAC
+Mahmoud,Osama,16,1467865279,Baptist Memorial ,"Memphis, TN",Cardiology
+Domsky,Steven ,15,1922200922,Lankenau,"Wynnewood, PA",Cardiology
+Ragin,Andrew ,15,1477199354,Baptist Memorial ,"Memphis, TN",NP
+Hryniewicz,Kasia ,14,1093958803,Abbott,"Minneapolis, MN",Cardiology
+Rosen,Norman ,14,1053492215,Westchester ,"Valhalla, NY",Oncology
+Al-Hindi,Ahmad,13,1851324446,Saint Bernards,"Jonesboro, AR",Cardiology
+Zolna,Samantha ,13,1871068841,Geisinger,"Danville, PA",NP
+Erdman,Laura ,13,1205211919,Aspirus Wausau,"Wausau, WI",Cardiology
+Scheeler,Lauren ,13,1003287822,Geisinger,"Danville, PA",NP
+Wood,Ann ,13,1578846978,OHSU,"Portland, OR",PAC
+Mahoney,Reid ,13,1336670819,Queen's Medical Center,"Honolulu, HI",Surgery
+Vicenty-Rivera,Sonia ,13,1275616765,VA Puerto Rico,"San Juan, PR",Cardiology
+Cabuay,Barry ,12,1013984012,Abbott,"Minneapolis, MN",Cardiology
+Wendell,Melissa ,12,1205814464,Aspirus Wausau,"Wausau, WI",Cardiology
+Murphy,Ken ,12,1346232980,Self Regional,"Greenwood, SC",PAC
+Nagel,Nancy ,12,1831409804,OHSU,"Portland, OR",NP
+Buto-Coletti,Cassandra ,12,1174563597,Prisma Health Richland,"Columbia, SC",Cardiology 
+Erol,Huseyin ,12,1003470030,Queen's Medical Center,"Honolulu, HI",Surgery
+Kuba,Rolin ,12,1326384819,Queen's Medical Center,"Honolulu, HI",NP
+Sarter,Brian ,11,1851323745,Christiana Newark,"Newark, DE",Cardiology
+Feng,Dali ,11,1215917646,Mercy Hospital ,"Coon Rapids, MN",Cardiology
+Ono,Chikako ,11,1699903526,Aspirus Wausau,"Wausau, WI",Cardiology
+Webster,Melissa ,11,1659630366,Abbott,"Minneapolis, MN",Cardiology
+Beardell,Frank ,11,1245235712,Christiana Newark,"Newark, DE",Hematology
+Gonzalez,Miguel Angel ,11,1750395232,VA Puerto Rico,"San Juan, PR",Internal Medicine
+Sherry,Scott ,11,1962461442,OHSU,"Portland, OR",PAC
+Mueller,Andrew ,11,1568810265,Queen's Medical Center,"Honolulu, HI",Surgery
+Sandokji,Yousif ,11,1477904845,Queen's Medical Center,"Honolulu, HI",Surgery
+Furey,Anthony ,10,1700853603,Christiana Newark,"Newark, DE",Cardiology
+McCann,Patrick ,10,1487850780,Prisma Health Richland,"Columbia, SC",Cardiology 
+Kline,Cynthia ,10,1043279326,Geisinger,"Danville, PA",NP
+Goto,Dylan ,10,1831753557,Queen's Medical Center,"Honolulu, HI",Surgery
+Marison,Scott ,10,1265055073,Queen's Medical Center,"Honolulu, HI",Surgery
+Holliday,Casey ,10,1205403219,Self Regional,"Greenwood, SC",Cardiology
+Kizis,Sharon ,9,1326148040,Geisinger,"Danville, PA",PAC
+Manzara,Lauren ,9,1235573247,Edward Hospital,"Naperville, IL",NP
+Wilson,Valerie ,9,1457906042,Self Regional,"Greenwood, SC",Cardiology
+Kawahara,Kaye ,9,1225005176,Queen's Medical Center,"Honolulu, HI",Hematology
+Ampadu,James ,9,1689916157,Prisma Health Richland,"Columbia, SC",Cardiology 
+O'Regan,Kevin ,9,1700969151,Lankenau,"Wynnewood, PA",PAC
+Batte,Kelly ,9,1235603887,OHSU,"Portland, OR",NP
+Follensbee,Aaron ,8,1477905909,Aspirus Wausau,"Wausau, WI",Cardiology
+Koval,Stephen ,8,1487138756,Geisinger,"Danville, PA",NP
+Gallagher,Cynthia ,8,1952550782,Geisinger,"Danville, PA",NP
+Hosford-Skapof,Martha ,8,1457301657,Christiana Newark,"Newark, DE",Hematology
+Vadakara,Joseph ,8,1881854636,Geisinger,"Danville, PA",Hematology
+Bakker,Jan ,8,1962908376,NYU,"New York, NY",Critical Care
